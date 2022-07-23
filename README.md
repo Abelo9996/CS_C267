@@ -1,0 +1,2 @@
+# CS C267
+This publication customizes Deep Neural Networks (DNN) pruning to the underlying hardware platforms to possibly achieve useful results. Using SIMD-aware weight pruning for low/moderate parallelism hardware along with node pruning for high parallelism hardware, attempted to produce a pruning method that would be beneficial to the performance speedup of large DNN models along with its fraction of weights pruned.
